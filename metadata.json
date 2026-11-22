@@ -1,0 +1,6 @@
+{
+  "name": "Belajar Alkitab Pro",
+  "description": "Aplikasi analisis dan bedah ayat Alkitab Pro dengan integrasi AI Gemini dan teks asli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
